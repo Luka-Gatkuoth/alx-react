@@ -1,1 +1,1 @@
-## 0x06. React Immutable p
+## 0x06. React Immutable project
